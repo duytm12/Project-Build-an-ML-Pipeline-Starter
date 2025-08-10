@@ -5,7 +5,7 @@ This project implements a complete MLOps pipeline for predicting Airbnb prices i
 ## Project Links
 
 - **W&B Project**: https://wandb.ai/duytm112-western-governor-university/nyc_airbnb
-- **GitHub Repository**: [Your GitHub repository URL here]
+- **GitHub Repository**: https://github.com/duytm12/Project-Build-an-ML-Pipeline-Starter
 
 ## Project Overview
 
